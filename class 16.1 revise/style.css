@@ -1,0 +1,50 @@
+/* button{
+    background-color:cadetblue;
+}
+/* .normal{
+    width: 200px;
+    height: 200px;
+}
+.big{
+    width: 500px;
+    height: 500px;
+}
+.small{
+    width: 70px;
+    height: 70px;
+} */
+
+
+/* 
+.bold{
+    font-weight: bold;
+    color:crimson;
+
+}
+.font{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: smaller;
+}
+.back{
+    background-color: darkgray;
+}
+.align{
+   margin: 5px 5px;
+}  */
+
+.main{
+    background-color: black;
+    text-align: center;
+   
+    height: 250px;
+    
+}
+img{
+    width: 100px;
+    height: 50vh;
+}
+button{
+    margin-top: 10px;
+    background-color:cornsilk;
+    font-weight: bold;
+}
